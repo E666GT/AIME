@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/1YearOld/0_ref/2_GPT/GPT2-Chinese" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/1YearOld/0_ref/2_GPT/GPT2-chitchat" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/PreSubprojs/AnimalAI-Olympics" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/PreSubprojs/RL/AnimalAI-Olympics" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/PreSubprojs/RL/RL_Robotics/baselines" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/PreSubprojs/RL/a3c-ppo/PPO-PyTorch" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/PreSubprojs/RL/a3c-ppo/ac-ppo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/PreSubprojs/RL/a3c-ppo/pytorch-a2c-ppo-acktr-gail" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/PreSubprojs/RL/a3c-ppo/pytorch-a3c" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/PreSubprojs/RL/ml-agents" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/PreSubprojs/RL/pytorch-policy-gradient-example" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/PreSubprojs/RL_Robotics/baselines" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/PreSubprojs/a3c-ppo/PPO-PyTorch" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/PreSubprojs/a3c-ppo/ac-ppo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/PreSubprojs/a3c-ppo/pytorch-a2c-ppo-acktr-gail" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/PreSubprojs/a3c-ppo/pytorch-a3c" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/PreSubprojs/a3c/PPO-PyTorch" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/PreSubprojs/a3c/ppo/PPO-PyTorch" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/PreSubprojs/a3c/pytorch-a2c-ppo-acktr-gail" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/PreSubprojs/a3c/pytorch-a3c" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/PreSubprojs/ml-agents" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/PreSubprojs/ppo/PPO-PyTorch" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/PreSubprojs/pytorch-policy-gradient-example" vcs="Git" />
+  </component>
+</project>

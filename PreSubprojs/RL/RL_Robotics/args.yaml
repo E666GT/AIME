@@ -1,0 +1,35 @@
+# env
+render: True
+env_name: "Pendulum-v0"
+# net
+lr: 0.001
+betas: (0.9,0.999)
+memory_size: [100,100]
+Extractor_L: [64,32,10]
+Fuser_L: [64,32,10]
+
+Fuser_A_pre_out_dim: [10]
+
+update_per_steps: 400 # 1600 !!!!!!!!!!!!!11
+steps_per_episode: 400 # 1600 # no use 200 steps per ipisode fixed by env
+max_episodes: 10000
+K_iters_train: 80 #80!!!!!!!!!!!!!!!!!!1
+
+action_dim: 1
+action_std: 0.4
+
+temp_alpha_clamp: 0.0001 # deprecated
+mem_alpha: 0.0001
+
+
+
+gamma: 0.9
+eps_clip: 0.2
+cf_loss_V: 0.4
+cf_loss_r: 0.1
+
+
+# load
+load: 1
+save_and_load_path: Test_11
+备注: Test_6<> Test_7<Reward+7> Test_8<corrected loss> Test9<smaller network>
